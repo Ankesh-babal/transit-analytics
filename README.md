@@ -10,15 +10,23 @@ A complete end-to-end transit intelligence platform that transforms raw GTFS dat
 
 ## 📸 Dashboard Preview
 
-| Headway Analytics | Delay Analytics |
-|---|---|
+| Headway Analytics | 
+|---|
 |<img width="1827" height="810" alt="image" src="https://github.com/user-attachments/assets/6d5a592f-127d-4043-bd06-36e38cbe0e5d" />
+|
+
+|Delay Analytics |
+|---|
 | <img width="1852" height="847" alt="ss2" src="https://github.com/user-attachments/assets/63ef21ba-aa4b-4bb6-aafd-b667cc1b6c70" />
 |
 
-| Route Comparison | Real-Time Forecasting |
-|---|---|
+| Route Comparison | 
+|---|
 | <img width="1827" height="810" alt="ss3" src="https://github.com/user-attachments/assets/ce6ca146-755d-4717-8359-2e2a7c874095" />
+|
+
+|Real-Time Forecasting |
+|---|
 | <img width="1782" height="840" alt="ss4" src="https://github.com/user-attachments/assets/ff128c04-8ec0-4973-a0c2-0443d062a36c" />
 |
 
